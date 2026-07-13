@@ -8,7 +8,7 @@
   "server": {
     "ip": "pandaworld.aternos.me",
     "port": 42558,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
