@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "pandaworld.aternos.me",
+    "port": 37052,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
